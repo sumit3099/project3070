@@ -1,0 +1,72 @@
+button {
+    background-color: #4CAF50;
+    /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    border: 2px solid #1CA950;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 20px;
+    border: 2px solid #1CA950;
+    border-radius: 25px;
+}
+
+input[type="text"] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0 0 100px;
+    box-sizing: border-box;
+}
+
+li {
+    font-size: 40px;
+    color: magenta;
+}
+
+.remove {
+    background-color: white;
+    /* Green */
+    color: Black;
+    border: 2px solid #1CA950;
+    border: 2px solid;
+    border-radius: 25px;
+}
+
+.Todo {
+    background-color: white;
+    color: Black;
+    margin-left: 10px;
+    border: 2px solid #1CA950;
+    border-radius: 25px;
+}
+
+.Progress {
+    background-color: white;
+    /* Green */
+    color: Black;
+    margin-left: 10px;
+    border: 2px solid #1C3950;
+    border-radius: 25px;
+}
+
+.Done {
+    background-color: white;
+    /* Green */
+    color: Black;
+    border: 2px solid #1CA950;
+    border-radius: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+span {
+    background-color: blueviolet;
+    /* Green */
+    color: Black;
+    border: 2px solid #1CA950;
+    border-radius: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 15px 32px;
+}

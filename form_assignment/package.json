@@ -1,0 +1,20 @@
+{
+    "name": "engineering_track",
+    "version": "1.0.0",
+    "description": "hello wor",
+    "main": "assignment.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "webpack-dev-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^3.9.1"
+    },
+    "dependencies": {
+        "bootstrap": "^3.3.7",
+        "rxjs": "^5.5.5",
+        "webpack-dev-server": "^2.9.5"
+    }
+}
